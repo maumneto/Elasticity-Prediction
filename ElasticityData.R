@@ -10,7 +10,7 @@ ElasticityData <- function(x)
 
 ## Setting parameters
 # Load the elasticity data
-serieData <- read.table("C:\\Users\\MaurícioM\\Google Drive\\Códigos\\Rstudio - Prediction for Elasticity Data_\\node-a.log", header = FALSE, sep = "|");
+serieData <- read.table("path_to_node-a.log", header = FALSE, sep = "|");
 
 # return the time of measurement 
 if (x == 1) 
