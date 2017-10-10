@@ -14,8 +14,8 @@ library(zoo)        #
 library(nnet)       # for neural network
 
 ## Call some needed in forecasting analyses
-source("C:\\Users\\MaurícioM\\Google Drive\\Códigos\\Rstudio - Prediction for Elasticity Data_\\ErrorFunction.R")
-source("C:\\Users\\MaurícioM\\Google Drive\\Códigos\\Rstudio - Prediction for Elasticity Data_\\ElasticityData.R")
+source("path_to_ErrorFunction.R")
+source("path_to_ElasticityData.R")
 
 # capture the inicial clock of each method
 CPUtimeARIMA <- proc.time()
