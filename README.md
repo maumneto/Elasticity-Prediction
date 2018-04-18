@@ -9,5 +9,5 @@ Hello everyone! This code is made by @maumneto that implements some prediction m
 - Some metrics of prediction errors - ErrorFunction.R;
 - Auto-Regressive Integrated Moving Average (ARIMA) model implementation - ARIMAmodel.R;
 - ExponenTial Smoothing (ETS) model implementation - ETSmodel.R;
-- Code that capts elasticity data from the nodes (node-a/b) - ElasticityData.R;
+- Code that capture elasticity data from the nodes (node-a/b) - ElasticityData.R;
 - Code test - ForecastMethodsForElasticity.R;
